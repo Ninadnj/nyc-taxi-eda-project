@@ -46,10 +46,6 @@ To explore and clean raw trip data, visualize key metrics, and generate business
 
 ---
 
-## ✅ Status
-
-✔️ Project complete and ready for portfolio showcase
-
 ## Data viz
 
 View the interactive dashboard on [Tableau Public]
